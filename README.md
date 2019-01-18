@@ -6,6 +6,8 @@ Em processamento e entendimento de linguagem natural, a análise de sentimento �
 
 Sobre a entrega:
 
-**1. Deve-se escolher 3 diferentes algoritmos de classificação ou regressão. Deve-se utilizar apenas o arquivo train.tsv para criar as bases de treino, validação e teste, comparando os algoritmos com a base de teste e escolhendo o melhor, justificando a escolha.**
+1. Deve-se escolher 3 diferentes algoritmos de classificação ou regressão. Deve-se utilizar apenas o arquivo train.tsv para criar as bases de treino, validação e teste, comparando os algoritmos com a base de teste e escolhendo o melhor, justificando a escolha.
+
 2. Os códigos e o relatório devem ser entregues em um ipython notebook didático, o qual deve ser auto-suficiente para ser executado (assumindo que o computador a executar possua todas as ferramentas necessárias instaladas).
+
 3. O relatório deve conter todas as tentativas para resolver o problema, como se estivesse contando a história da estrada percorrida para se chegar no resultado.
